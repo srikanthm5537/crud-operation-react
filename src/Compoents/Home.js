@@ -38,6 +38,7 @@ function Home(){
     return(
         <Fragment>
             <div style={{margin:"10em"}}>
+                <h1>Home page</h1>
                  <Table striped bordered hover size="sm">
                     <thead>
                         <tr>
