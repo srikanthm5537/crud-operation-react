@@ -19,7 +19,7 @@ function View(){
         <Fragment>
          <div className='col-4 m-auto'>
             <Link to="/"><p>Back Home</p></Link>
-
+<h2>Test</h2>
             <Table bordered striped hover>
                 <thead>
                     <tr>
