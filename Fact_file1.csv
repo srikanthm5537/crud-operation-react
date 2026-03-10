@@ -1,0 +1,11 @@
+id,name,user_name,email,phone_number,salary,city
+1001,Rahul Sharma,rahul_sharma,rahul.sharma@example.com,+91-9876543210,55000,Mumbai
+1002,Priya Verma,priya_verma,priya.verma@example.com,+91-9123456780,62000,Delhi
+1003,Arjun Patel,arjun_patel,arjun.patel@example.com,+91-9988776655,48000,Ahmedabad
+1004,Sneha Reddy,sneha_reddy,sneha.reddy@example.com,+91-9345678123,71000,Hyderabad
+1005,Vikram Singh,vikram_singh,vikram.singh@example.com,+91-9765432109,59000,Jaipur
+1006,Ananya Das,ananya_das,ananya.das@example.com,+91-9090909090,64000,Kolkata
+1007,Karan Mehta,karan_mehta,karan.mehta@example.com,+91-9812345678,53000,Pune
+1008,Neha Gupta,neha_gupta,neha.gupta@example.com,+91-9700011223,60000,Lucknow
+1009,Rohan Nair,rohan_nair,rohan.nair@example.com,+91-9654321876,72000,Kochi
+1010,Pooja Kulkarni,pooja_kulkarni,pooja.kulkarni@example.com,+91-9881122334,58000,Bengaluru
